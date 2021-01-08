@@ -1,4 +1,7 @@
 {
+    "bundles": {
+        "sergeiki\\trpr": ["all"]
+    },
     "copy-from-recipe": {
         "src/": "%SRC_DIR%/"
     }
