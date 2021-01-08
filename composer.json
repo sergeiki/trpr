@@ -1,0 +1,22 @@
+{
+    "name": "sergeiki/trpr",
+    "description": "Decisions a transportation problem",
+    "type": "symfony-bundle",
+    "keywords": ["transportation-problem"],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.0",
+        "symfony/console": "^5.2"
+    },
+    "authors": [
+        {
+            "name": "Serhii Kirichenko",
+            "email": "sergei.ksmith@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "sergeiki\\trpr\\": "src/"
+        }
+    }
+}
