@@ -1,6 +1,17 @@
 <?php
 
+/*
+ * This file is part of https://github.com/sergeiki/trpr
+ *
+ * (c) 2021 Serhii Kirichenko <sergei.ksmith@gmail.com>
+ *
+ */
+
 namespace sergeiki\trpr;
+
+/**
+ * @author Serhii Kirichenko <sergei.ksmith@gmail.com>
+ */
 
 class TransportationProblem
 {
